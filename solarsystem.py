@@ -4,7 +4,7 @@ from sun import *
 
 class SolarSystem:
     '''
-    Constructor uses Turtle to define bounds to planetary coordinate system.
+    The SolarSystem constructor uses Turtle to define bounds to planetary coordinate system.
     We hide turtle so it doesn't appear on screen; coordinate system is
     distributed equally around (0,0).
     '''
